@@ -24,7 +24,7 @@ class Peak {
     // Driver Code
     public static void main(String[] args)
     {
-        int arr[] = { 1, 3,8 ,6,20, 4, 1, 0 };
+        int arr[] = { 1, 3,8 ,6,20,65, 4, 1, 0 };
         int n = arr.length;
         System.out.print("Index of a peak point is " + findPeak(arr, n));
     }
